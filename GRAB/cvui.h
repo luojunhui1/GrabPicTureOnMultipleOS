@@ -8,6 +8,7 @@
  before the inclusion of cvui.h to ensure its implementaiton is compiled.
 
  E.g:
+ E.g:
 
    #define CVUI_IMPLEMENTATION
    #include "cvui.h"
